@@ -13,7 +13,7 @@ Ekip olarak çalıştık ve kullanıcıların günlük öğünlerini ekleyerek k
 ## 📹 Video Tanıtım:
 
 <video width="270" height="600" controls>
-  <source src="resources/calory_tool.mp4" type="video/mp4">
+  <source src="resources/HealthTracker.mp4" type="video/mp4">
 </video>
 
 ## 🛠 Backend Entegrasyonu:
