@@ -12,6 +12,8 @@ Ekip olarak çalıştık ve kullanıcıların günlük öğünlerini ekleyerek k
 
 ## 📹 Video Tanıtım:
 
+https://github.com/user-attachments/assets/c9f1b21d-a4fe-4215-82b5-d19c8955603a
+
 
 
 
